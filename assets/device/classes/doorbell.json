@@ -14,4 +14,10 @@
     "fr": "Utilisez cette classe d'appareil pour les sonnettes, habituellement avec la capacité de `bouton`.",
     "it": "Utilizza questa classe di dispositivi per i campanelli, di solito insieme alla funzione `pulsante`.",
     "sv": "Använd den här enhetsklassen för dörrklockor, oftast tillsammans med `knapp`-funktionen.",
+<<<<<<< HEAD
     "no": "Bruk denne enhetsklassen for dørklokker, ofte sammen med `knapp`-funksjonen."   }
+=======
+    "no": "Bruk denne enhetsklassen for dørklokker, ofte sammen med `knapp`-funksjonen."
+  }
+}
+>>>>>>> a713a0ffa4df97a7dc1076c81743d1efc394722f
